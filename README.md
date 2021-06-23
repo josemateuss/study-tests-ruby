@@ -8,6 +8,6 @@ This project was created with goal to practice tests in Ruby with Rspec Gem.
 * Rails: 5.2.1
 * Rspec: 4.0.0
 
-### Files
+### Files:
 * [user_spec.rb](./spec/models/user_spec.rb)
 * [model/user.rb](./app/models/user.rb)
